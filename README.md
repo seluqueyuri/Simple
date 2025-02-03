@@ -22,3 +22,4 @@ suba
 agora
 outra vez, náo [e posissve
 testando commit
+nao uso repo no pc 
