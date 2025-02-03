@@ -20,3 +20,4 @@ aprendendo a subir
 **o segredo** 
 suba
 agora
+outra vez, náo [e posissve
